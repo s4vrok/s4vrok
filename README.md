@@ -1,4 +1,4 @@
-# [Twoje Imię i Nazwisko]
+# S4vrok
 
 👋 Cześć! Jestem S4vrok, developer HTML/CSS/JS/TS z pasją do tworzenia animacji i interaktywnych doświadczeń webowych. Uwielbiam zamieniać statyczne strony w dynamiczne i angażujące aplikacje.
 
