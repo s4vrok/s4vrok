@@ -5,16 +5,6 @@
   <p>Developer HTML/CSS/JS/TS | Animacje to moja pasja | Tworzę interaktywne doświadczenia webowe.</p>
 </div>
 
-## Demo Animacji
-
-Sprawdź moje demo animacji z użyciem GSAP:
-
-[Link do CodePen/JSFiddle/GitHub Pages](https://codepen.io/s4vrok/pen/jakisKod)
-
-<img src="[Link do zrzutu ekranu demo]" alt="Zrzut ekranu demo animacji" width="400">
-
-Opis: Prosta animacja logo z użyciem GSAP.
-
 ## Umiejętności
 
 <p>
@@ -30,7 +20,6 @@ Opis: Prosta animacja logo z użyciem GSAP.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S4vrok&show_icons=true&theme=dark)](https://github.com/S4vrok)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4vrok&layout=compact&theme=dark)](https://github.com/S4vrok)
 
 ## Projekty
 
