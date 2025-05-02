@@ -3,7 +3,7 @@
 👋 Cześć! Jestem S4vrok, developer HTML/CSS/JS/TS z pasją do tworzenia animacji i interaktywnych doświadczeń webowych. Uwielbiam zamieniać statyczne strony w dynamiczne i angażujące aplikacje.
 
 <div id="header-animation" style="background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); color: white; padding: 20px; border-radius: 10px;">
-  <h1>[Twoje Imię i Nazwisko]</h1>
+  <h1>s4vrok</h1>
   <p id="typed-text"></p>
 </div>
 
